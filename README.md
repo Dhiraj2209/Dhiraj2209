@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhiraj Prajapati
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently in Learning State.
+- 🌱 I’m always in Learning State.
 - 📫 You can reach me by E-Mail dhiruuuuu22@gmail.com
 
 <!---
