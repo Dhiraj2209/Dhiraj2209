@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Prajapati</h1>
 <h3 align="center">A Computer Science & Tech. Student.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhiraj2209" alt="dhiraj2209" /></a> </p>
-
 - 🌱 I’m currently learning **Java, DSA**
 
 - 💬 Ask me about **C, HTML, Python**
