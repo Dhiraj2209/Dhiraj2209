@@ -23,7 +23,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiraj2209&label=Profile%20views&color=6666ff&style=flat" alt="dhiraj2209" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhiraj2209&show_icons=true&locale=en&layout=compact" alt="dhiraj2209" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhiraj2209&theme=dark" alt="dhiraj2209" /></p>
